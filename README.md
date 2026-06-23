@@ -6,7 +6,7 @@
 I build frontend systems with React and Next.js, with a focus on structure, interface quality, and careful execution.
 I like taking products from raw ideas to polished interfaces, keeping the design process and code quality close together.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-g-shoaib/), or reach me on [X](https://x.com/mo0hamed_gamal).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-g-shoaib/), or reach me on [X](https://x.com/mohamedgshoaib).
 Based in Cairo, Egypt.
 
 ### My Approach
